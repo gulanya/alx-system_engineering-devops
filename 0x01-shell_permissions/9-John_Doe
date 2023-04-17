@@ -1,2 +1,2 @@
 #!/bin/bas
-chmod 753
+chmod 753 hello
